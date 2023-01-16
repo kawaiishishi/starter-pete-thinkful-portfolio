@@ -40,6 +40,10 @@ article div {
   text-align: center;
   width: 100%;
 }
+article div p,
+article div ul{
+  text-align: left
+}
 
 /* Paragraphs */
 p {
@@ -90,6 +94,4 @@ hr {
 .flex_about{
   display: flex;
 }
-.about_text{
-  text-align: left;
-}
+
